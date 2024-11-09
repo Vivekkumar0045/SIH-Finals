@@ -4,3 +4,5 @@ mediapipe
 tensorflow
 python-vlc
 numpy
+opencv-contrib-python
+opencv-python
