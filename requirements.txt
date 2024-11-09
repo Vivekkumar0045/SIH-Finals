@@ -6,3 +6,6 @@ python-vlc
 numpy
 opencv-contrib-python
 opencv-python
+streamlit_webrtc
+pathlib
+time
